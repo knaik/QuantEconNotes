@@ -1,4 +1,4 @@
 # QuantEconNotes
 Python QuantEcon Coursework
 
-not in ordera
+not in order
